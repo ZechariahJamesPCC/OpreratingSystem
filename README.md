@@ -1,2 +1,0 @@
-# OpreratingSystem
-Assignment #6
